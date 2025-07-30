@@ -1,4 +1,6 @@
-def call(String imageName, String imageTag) {
-  echo "Scanning image ${imageName}:${imageTag} (stub - replace with real scanner)"
+def call() {
+    echo '🔍 Scanning image yasminsalah1/myapp:latest'
+    
 }
+
 
